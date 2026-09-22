@@ -19,6 +19,8 @@ Aplicar os conceitos aprendidos sobre Máquinas Virtuais no Microsoft Azure atra
 
 ![Lista de Máquinas Virtuais](images/vm-lista.png)
 
+A imagem demonstra a máquina virtual criada no Azure apresentando status de execução.
+
 ### Informações da Máquina Virtual
 
 ![Informações da Máquina Virtual](images/vm-detalhes.png)
