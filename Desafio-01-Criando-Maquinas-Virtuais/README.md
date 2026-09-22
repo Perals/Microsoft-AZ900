@@ -6,22 +6,22 @@ Aplicar os conceitos aprendidos sobre Máquinas Virtuais no Microsoft Azure atra
 
 ## Ambiente Criado
 
-- Nome da VM: server
-- Sistema Operacional: Ubuntu 24.04
-- Região: South Central US
-- Grupo de Recursos: server_group_05201927
-- Rede Virtual: server-vnet
-- Status: Em execução
+- **Nome da VM:** server
+- **Sistema Operacional:** Ubuntu 24.04
+- **Região:** South Central US
+- **Grupo de Recursos:** server_group_05201927
+- **Rede Virtual:** server-vnet
+- **Status:** Em execução
 
 ## Evidências
 
 ### Lista de Máquinas Virtuais
 
-images/vm-lista.png
+![Lista de Máquinas Virtuais](images/vm-lista.png)
 
 ### Informações da Máquina Virtual
 
-images/vm-detalhes.png
+![Informações da Máquina Virtual](images/vm-detalhes.png)
 
 A imagem apresenta os detalhes da VM, incluindo sistema operacional, grupo de recursos, endereço IP público e rede virtual.
 
